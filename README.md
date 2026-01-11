@@ -40,7 +40,7 @@ PROJEK-UAS-PYTHON/
 ---
 ## Output Program
 
-![Hasil Program](img/output.png)
+Hasil Program (img/output.png)
 Penjelasan File
 1. data.py
 
