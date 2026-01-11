@@ -1,2 +1,6 @@
-# project-uas-pemograman
-tugas uas pemograman muhammad hanif ramadhani
+# NAMA : MUHAMMAD HANIF RAMADHANI
+# NIM  : 312510291
+# MATA KULIAH : PEMOGRAMAN
+
+# Jenis Project UAS : OOP (Object Oriented Programming)
+
