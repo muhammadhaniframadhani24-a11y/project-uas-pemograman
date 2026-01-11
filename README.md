@@ -112,6 +112,7 @@ python main.py
 Video Dokumentasi & Demo
 
 Link video dokumentasi dan demo program:
+https://youtu.be/5r2mwNE_h4M
 
 Kesimpulan
 
